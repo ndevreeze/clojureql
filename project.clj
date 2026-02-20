@@ -13,5 +13,4 @@
                      ;; 2025-08-24: recent lib, supporting support the SCRAM-SHA-256 authentication
                      [org.postgresql/postgresql "42.7.7"]
                      [org.apache.derby/derby      "10.1.1.0"]]
-  :repositories {"clojure-releases"  {:url "http://build.clojure.org/releases"}
-                 "clojure-snapshots"  {:url "http://build.clojure.org/snapshots"}})
+  )
